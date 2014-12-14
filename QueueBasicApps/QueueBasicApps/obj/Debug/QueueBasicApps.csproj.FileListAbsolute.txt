@@ -1,0 +1,6 @@
+E:\12-13-2014\QueueBasicApps\QueueBasicApps\bin\Debug\QueueBasicApps.exe.config
+E:\12-13-2014\QueueBasicApps\QueueBasicApps\bin\Debug\QueueBasicApps.exe
+E:\12-13-2014\QueueBasicApps\QueueBasicApps\bin\Debug\QueueBasicApps.pdb
+E:\12-13-2014\QueueBasicApps\QueueBasicApps\obj\Debug\QueueBasicApps.csprojResolveAssemblyReference.cache
+E:\12-13-2014\QueueBasicApps\QueueBasicApps\obj\Debug\QueueBasicApps.exe
+E:\12-13-2014\QueueBasicApps\QueueBasicApps\obj\Debug\QueueBasicApps.pdb

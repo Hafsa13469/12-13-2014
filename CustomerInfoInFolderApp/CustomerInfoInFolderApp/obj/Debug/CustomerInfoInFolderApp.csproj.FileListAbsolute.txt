@@ -1,0 +1,18 @@
+E:\12-13-2014\CustomerInfoInFolderApp\CustomerInfoInFolderApp\bin\Debug\CustomerInfoInFolderApp.exe.config
+E:\12-13-2014\CustomerInfoInFolderApp\CustomerInfoInFolderApp\obj\Debug\CustomerInfoInFolderApp.csprojResolveAssemblyReference.cache
+E:\12-13-2014\CustomerInfoInFolderApp\CustomerInfoInFolderApp\obj\Debug\CustomerInfoInFolderApp.Properties.Resources.resources
+E:\12-13-2014\CustomerInfoInFolderApp\CustomerInfoInFolderApp\obj\Debug\CustomerInfoInFolderApp.csproj.GenerateResource.Cache
+E:\12-13-2014\CustomerInfoInFolderApp\CustomerInfoInFolderApp\bin\Debug\CustomerInfoInFolderApp.exe
+E:\12-13-2014\CustomerInfoInFolderApp\CustomerInfoInFolderApp\bin\Debug\CustomerInfoInFolderApp.pdb
+E:\12-13-2014\CustomerInfoInFolderApp\CustomerInfoInFolderApp\obj\Debug\CustomerInfoInFolderApp.exe
+E:\12-13-2014\CustomerInfoInFolderApp\CustomerInfoInFolderApp\obj\Debug\CustomerInfoInFolderApp.pdb
+E:\12-13-2014\CustomerInfoInFolderApp\CustomerInfoInFolderApp\obj\Debug\CustomerInfoInFolderApp.CustomerInfoUI.resources
+D:\ASP CODE\12-13-2014\CustomerInfoInFolderApp\CustomerInfoInFolderApp\bin\Debug\CustomerInfoInFolderApp.exe.config
+D:\ASP CODE\12-13-2014\CustomerInfoInFolderApp\CustomerInfoInFolderApp\obj\Debug\CustomerInfoInFolderApp.exe
+D:\ASP CODE\12-13-2014\CustomerInfoInFolderApp\CustomerInfoInFolderApp\obj\Debug\CustomerInfoInFolderApp.pdb
+D:\ASP CODE\12-13-2014\CustomerInfoInFolderApp\CustomerInfoInFolderApp\obj\Debug\CustomerInfoInFolderApp.csprojResolveAssemblyReference.cache
+D:\ASP CODE\12-13-2014\CustomerInfoInFolderApp\CustomerInfoInFolderApp\obj\Debug\CustomerInfoInFolderApp.CustomerInfoUI.resources
+D:\ASP CODE\12-13-2014\CustomerInfoInFolderApp\CustomerInfoInFolderApp\obj\Debug\CustomerInfoInFolderApp.Properties.Resources.resources
+D:\ASP CODE\12-13-2014\CustomerInfoInFolderApp\CustomerInfoInFolderApp\obj\Debug\CustomerInfoInFolderApp.csproj.GenerateResource.Cache
+D:\ASP CODE\12-13-2014\CustomerInfoInFolderApp\CustomerInfoInFolderApp\bin\Debug\CustomerInfoInFolderApp.exe
+D:\ASP CODE\12-13-2014\CustomerInfoInFolderApp\CustomerInfoInFolderApp\bin\Debug\CustomerInfoInFolderApp.pdb
